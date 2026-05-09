@@ -41,6 +41,8 @@ A complete CRM transformation project where we optimized HubSpot and implemented
 ## 🔄 System Flow
 
 Leads → HubSpot → AI Voice Agent → Qualification → Pipeline → Follow-ups
+<img width="427" height="167" alt="image" src="https://github.com/user-attachments/assets/dc0e12ad-f0d5-4733-adaf-78454032071f" />
+
 
 ---
 
